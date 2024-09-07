@@ -1,0 +1,15 @@
+            ________________________________________________________________________________________
+            |                                note-                                                 |
+            |        Attach your "MOTOR DRIVER SHIELD" directly to your ARDUNIO UNO board          |
+            |______________________________________________________________________________________|
+
+1- After compeleting the Circuit Diagram, Install Ardunio IDE from the offical Website
+2- Intall RFmotor library before getting into code 
+3- After installing RFmotor library connect your Ardunio UNO board to your laptop with programing cable 
+4- Copy the given code and paste it in you IDE OR just download the whole file and open it in your IDE 
+5- Then select you COM port in which you have connected you programing cable
+6- Compile and import your code to the UNO board 
+
+                                   >>>>>>>>>>>>  LINK  <<<<<<<<<<<<<
+                                          RFMOTOR library
+https://learn.adafruit.com/adafruit-motor-shield/library-install
