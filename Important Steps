@@ -9,7 +9,14 @@
 4- Copy the given code and paste it in you IDE OR just download the whole file and open it in your IDE 
 5- Then select you COM port in which you have connected you programing cable
 6- Compile and import your code to the UNO board 
-
+7- You will need an Remote app to connect and run the Car. LINKS are given blow 
                                    >>>>>>>>>>>>  LINK  <<<<<<<<<<<<<
                                           RFMOTOR library
 https://learn.adafruit.com/adafruit-motor-shield/library-install
+                                          REMOTE APPLICATION
+https://bluetooth-rc-car.en.softonic.com/android
+
+                        >>>>>>>>>>>>>>>>>>>     NOTE    <<<<<<<<<<<<<<<<<<<<<<<
+        
+           ------------copy the links and paste it in your perfered browser------------- 
+                            password for HC-05(bluetooth) will be "1234"
